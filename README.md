@@ -7,8 +7,10 @@
 
 ## 🐶 Languages and Tools I've Worked With
 
-* **Python**: Pandas, NumPy, MatPlotLib, Seaborn, SciKit-Learn, NLTK, TextBlob, Timer, TQDM, DateTime, String, WordCloud, RegEx, SQLite3, AST, PIL
+* **Python**: Pandas, PySpark, NumPy, MatPlotLib, Seaborn, SciKit-Learn, H20, NLTK, TextBlob, Timer, TQDM, DateTime, String, WordCloud, RegEx, SQLite3, AST, PIL, Requests, Collections
 * **SQL**
+* **Azure DataBricks**
+* **TeraData**
 
 
 
