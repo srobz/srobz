@@ -11,6 +11,7 @@
 * **SQL**
 * **Azure DataBricks**
 * **TeraData**
+* **Jupyter**
 
 
 
